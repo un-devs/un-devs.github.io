@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Game Hacking!"
-date: "2020-12-11"
+date: "2021-07-16"
 layout: single
 tags:
 - game-hacking reverse-engineering
