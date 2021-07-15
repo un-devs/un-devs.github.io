@@ -111,25 +111,25 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: undevelopers@protonmail.com          
+      # url: "undevelopers@protonmail.com"          
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      #url: "https://muff-in.github.io"
+      #url: ""
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/un_devs"
     - label: "Discord"
       icon: "fab fa-fw fa-discord"
-      #url: "https://discord.gg/VdTRNA8"
+      #url: "h"
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/_muffin31"
+       url: "https://twitter.com/und_evs"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/muff-in"
+      url: "https://github.com/un-devs"
   
 
 
