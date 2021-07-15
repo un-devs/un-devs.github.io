@@ -126,7 +126,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-       url: "https://twitter.com/un_devs"
+       # url: "https://twitter.com/un_devs"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/un-devs"
