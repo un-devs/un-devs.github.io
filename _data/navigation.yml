@@ -1,0 +1,15 @@
+# main links
+main:
+  - title: "/home"
+    url: https://muff-in.github.io/
+
+  - title: "/Resources"
+    url: https://gist.github.com/muff-in
+# - title: "/archives"
+#   url: /archives/
+  - title: "/categories"
+    url: /categories/
+  - title: "/tags"
+    url: /tags/
+  - title: "/about"
+    url: /about/
