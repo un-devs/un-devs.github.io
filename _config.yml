@@ -18,7 +18,7 @@ title                    : "/undevs"
 title_separator          : "-"
 name                     : "Un-developers"
 description              : "Some crackhead students doing programming & Reverse-engineering"
-url                      : muff-in.github.io
+url                      : un-devs.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -126,7 +126,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-       url: "https://twitter.com/und_evs"
+       url: "https://twitter.com/un_devs"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/un-devs"
