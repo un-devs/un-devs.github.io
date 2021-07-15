@@ -10,5 +10,5 @@ categories:
 
 Undevs is a small group made by two uni students who do programming and reverse engineering. 
 
-[Github:](https://github.com/un-devs)
-[Twitter:](https://twitter.com/un_devs)
+Github:[un_devs](https://github.com/un-devs) 
+Twitter:[Un_devs](https://twitter.com/un_devs)
