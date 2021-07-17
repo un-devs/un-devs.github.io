@@ -6,7 +6,7 @@ author: "ElementalX"
 tags:
 - LLVM-IR 
 categories:
-- llvm
+- low-level-exploration
 ---
 
 ## Why trying to understand LLVM-IR
