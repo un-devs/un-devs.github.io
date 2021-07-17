@@ -2,6 +2,7 @@
 title: "A Journey to understand LLVM-IR!"
 date: "2021-07-16"
 layout: single
+author: "ElementalX"
 tags:
 - LLVM-IR 
 categories:
