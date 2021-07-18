@@ -54,7 +54,7 @@ So, in the above section I just tried to make SSA representation quite simple, n
 
 ### Step 1: Clang & LLVM Optimizer.
 
-You need to check out if clang is installed on your machine, if not `sudo apt install clang` command will do the job for you, next check for the clang version `clang --version` hopefully your output will be ![something similar](/assets/image/posts/picture3.png "something similar"), then next go ahead and check for LLVM's optimizer version `opt --version`, if it is not installed you can install this with the same command as above used to install clang. 
+You need to check out if clang is installed on your machine, if not `sudo apt install clang` command will do the job for you, next check for the clang version `clang --version` hopefully your output will be ![something similar](/assets/images/posts/picture3.png "something similar"), then next go ahead and check for LLVM's optimizer version `opt --version`, if it is not installed you can install this with the same command as above used to install clang. 
 
 
 ### Step 2: Writing a simple C program & generate the optimized LLVM-IR.
