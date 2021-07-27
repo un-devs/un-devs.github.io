@@ -203,7 +203,7 @@ _valueofrcx:
 	je  _exit	
 
 ```
-[![asciicast](https://asciinema.org/a/pA79uIjEuSCvOXdNYhXWmRuwt.svg)](https://asciinema.org/a/pA79uIjEuSCvOXdNYhXWmRuwt)
+![asciicast](https://asciinema.org/a/pA79uIjEuSCvOXdNYhXWmRuwt.svg)](https://asciinema.org/a/pA79uIjEuSCvOXdNYhXWmRuwt)
 
 Before we move ahead, we will modify our previous hello world program a bit, assemble it with NASM and then link it which will print us the message:
 
