@@ -126,7 +126,7 @@ mkdir work-space
 cd gollvm ; git clone https://github.com/llvm/llvm-project.git
 ```
 
-![making directory&installingllvm]()
+![making directory&installingllvm](https://github.com/un-devs/un-devs.github.io/blob/master/assets/images/posts/makingdirectory%26installingllvm.png)
 
 
 ```bash
